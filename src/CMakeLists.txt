@@ -7,3 +7,4 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 
 add_executable(recursive recursive_fun.cpp)
 add_executable(selectionSort_fun selectionSort_fun.cpp)
+add_executable(insertionSort_fun insertionSort_fun.cpp)
